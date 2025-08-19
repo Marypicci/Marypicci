@@ -6,7 +6,7 @@
 
 </div>
 
-Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso do Sul, estou no 8º período.
+Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso do Sul, estou no 8º período. Sempre em busca de novos conhecimentos.
 
 ---
 
