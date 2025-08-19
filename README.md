@@ -39,7 +39,25 @@ Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
   />
-          
+
+<img 
+  align="left"
+  alt="PHP"
+  title="PHP"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+  />
+
+<img 
+  align="left"
+  alt="sql"
+  title="sql"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+  />
+
 <img 
   align="left"
   alt="VSCode"
