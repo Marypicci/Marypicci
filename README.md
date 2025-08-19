@@ -14,8 +14,8 @@ Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal
   
 <img 
   align="left"
-  alt="Python"
-  title="Python"
+  alt=" Python"
+  title=" Python"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
